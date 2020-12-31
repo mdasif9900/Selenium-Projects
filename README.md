@@ -1,1 +1,2 @@
-# Selenium-Projects
+# Selenium
+Controlling browser using Selenium module.
